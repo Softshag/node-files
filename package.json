@@ -7,7 +7,11 @@
     "test": "node node_modules/.bin/mocha -r should -R spec"
   },
   "author": "Rasmus Kildevæld",
-  "license": "ISC",
+  "license": "MIT",
+  "repository" : {
+    "type": "git",
+    "url" : "https://github.com/Softshag/node-files.git"
+  },
   "dependencies": {
     "knox": "^0.9.0",
     "mime": "^1.2.11",
