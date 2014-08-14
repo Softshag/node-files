@@ -1,3 +1,3 @@
 # Node FileManager
 
-[FileManager](tutorial/filemanager)
+[FileManager](tutorial/filemanager.md)
