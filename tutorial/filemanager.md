@@ -25,6 +25,10 @@
         console.log(file); // {name:'image.png',path:'images/image1.png",mime:'images/png',size:2020}
     });
     
+    // OR
+    
+    fm.add('images/image1.png', ',/image.png', function (err, file) {});
+    
     
 #### Get a file
 
